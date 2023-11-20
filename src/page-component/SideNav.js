@@ -5,13 +5,8 @@ const SideNav = () => {
   return (
     <>
       <div className="sidebar">
-          <div className='sidediv'>
             <li className="sidebartitle">Overview</li>
-            </div>
-            <div className='sidediv'>
             <li className="sidebartitle">Onboarding</li>
-            </div>
-      
       </div>
     </>
   )

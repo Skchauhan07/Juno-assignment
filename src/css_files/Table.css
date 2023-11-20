@@ -1,12 +1,12 @@
 
 .table {
     height: 100vh;
-    margin-left: 10vw;
-    width: 75vw;
+    /* margin-left: 10vw;
+    width: 75vw; */
     /* Other styles for the dashboard */
   }
 .forSearch{
-    margin-left: 15vw;
+    /* margin-left: 15vw; */
     width: 55vw;
     padding: auto;
     margin-top: 3%;

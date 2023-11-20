@@ -1,10 +1,11 @@
 import React from 'react'
 import MyTable from '../page-component/Table'
+import NavHead from '../page-component/Navhead'
 
-const Mainpage = () => {
+const Mainpage = ({tab}) => {
   return (
     <div>
-        <MyTable />
+        <MyTable tab = {tab} />
     </div>
   )
 }
